@@ -1,0 +1,25 @@
+# Assets Visuais do Projeto
+
+---
+
+## 01 — Fontes Carregadas
+
+Arquivo:
+01-fontes-carregadas.png
+
+Descrição:
+Registro visual do NotebookLM
+com as fontes estratégicas adicionadas
+ao sistema de aprendizagem.
+
+Fontes utilizadas:
+- DAX Guide;
+- Mini-course - Power BI;
+- Microsoft Learn;
+- Power BI Documentation;
+- ebook Power BI – Nível I.
+
+Objetivo:
+Demonstrar a construção da base
+de conhecimento do projeto
+5S Learning Second Brain.

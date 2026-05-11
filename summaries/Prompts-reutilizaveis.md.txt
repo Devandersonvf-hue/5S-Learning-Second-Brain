@@ -1,0 +1,34 @@
+# Prompts Reutilizáveis
+
+---
+
+## Prompt de Resumo
+
+"Crie um resumo estruturado sobre [tema]
+utilizando tópicos e exemplos práticos."
+
+---
+
+## Prompt de Revisão
+
+"Explique os principais conceitos de [tema]
+para iniciantes utilizando linguagem simples."
+
+---
+
+## Prompt de Organização
+
+"Organize este conteúdo utilizando metodologia 5S."
+
+---
+
+## Prompt de Glossário
+
+"Crie um glossário com os principais termos sobre [tema]."
+
+---
+
+## Prompt de Aprendizagem
+
+"Crie um plano de estudos sobre [tema]
+utilizando Gestão à Vista e revisões contínuas."

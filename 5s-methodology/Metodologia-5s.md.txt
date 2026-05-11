@@ -1,0 +1,66 @@
+# Metodologia 5S
+
+A metodologia 5S é um sistema de organização
+criado no Japão com foco em:
+- produtividade;
+- organização;
+- padronização;
+- disciplina;
+- melhoria contínua.
+
+O método é dividido em cinco princípios:
+
+---
+
+## Utilização
+
+Separar o que é útil do que não é necessário.
+
+Aplicação no projeto:
+Organização das fontes e eliminação
+de conteúdos redundantes.
+
+---
+
+## Organização
+
+Organizar materiais de forma lógica e acessível.
+
+Aplicação no projeto:
+Estruturação de pastas,
+prompts,
+resumos
+e documentação.
+
+---
+
+## Limpeza
+
+Manter o ambiente limpo e atualizado.
+
+Aplicação no projeto:
+Revisão contínua de prompts,
+resumos
+e materiais de estudo.
+
+---
+
+## Padronização
+
+Criar padrões para manter a organização.
+
+Aplicação no projeto:
+Padronização de arquivos,
+prompts
+e estrutura documental.
+
+---
+
+## Disciplina
+
+Desenvolver constância e melhoria contínua.
+
+Aplicação no projeto:
+Rotina de revisões,
+aprendizado contínuo
+e evolução do Second Brain.

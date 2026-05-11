@@ -1,0 +1,49 @@
+## Prompt Refinado 03
+
+Prompt utilizado:
+"Explique DAX para iniciantes utilizando exemplos simples, medidas práticas e aplicações em dashboards do Power BI."
+
+Resposta:
+DAX (Data Analysis Expressions) é a linguagem de fórmulas e expressões utilizada no Power BI para a manipulação de modelos de dados. Ela funciona como o "cérebro" do relatório, permitindo transformar dados brutos em indicadores de gestão que auxiliam na tomada de decisão estratégica.
+Abaixo, os conceitos fundamentais para iniciantes, com exemplos práticos baseados nas fontes:
+
+1. Sintaxe Básica
+As fórmulas DAX seguem uma estrutura padrão facilitada por uma interface amigável que sugere parâmetros conforme você digita. O formato geral é:
+Nome_da_Medida = Função(Tabela[Coluna])
+
+2. Medidas Práticas (Exemplos Simples)
+Diferente de cálculos manuais, as medidas DAX são dinâmicas e se ajustam conforme o usuário interage com o relatório.
+
+Soma (SUM): Utilizada para totalizar valores numéricos.
+Exemplo: Valor_servicos = SUM(Base[Valor]).
+O que faz: Soma todos os números contidos na coluna "Valor" da tabela "Base".
+
+Média (AVERAGE): Calcula a média aritmética de uma coluna.
+Sintaxe: Média_Vendas = AVERAGE(Tabela[Valor]).
+
+3. Aplicações em Dashboards
+No Power BI, as medidas criadas com DAX são aplicadas diretamente nos elementos visuais para contar a história dos dados:
+
+Cartões: São usados para exibir o resultado direto de uma medida, como o "Valor Total de Serviços" ou o "Total de Registros", fornecendo um número crítico de forma imediata.
+Gráficos de Colunas e Barras: Permitem visualizar a distribuição de uma medida (ex: valor somado) por uma categoria (ex: consultor ou município).
+Gráfico de Rosca ou Pizza: Mostram a proporção que cada categoria representa em relação ao total calculado pela medida DAX.
+
+Dica de Desempenho: Para evitar erros e garantir a agilidade do processamento, recomenda-se nomear medidas e arquivos sem acentos ou caracteres especiais.
+
+Objetivo:
+Obter explicação prática sobre DAX, mas aplicações práticas.
+
+Resultado:
+A IA apresentou:
+- exemplos;
+- medidas;
+- aplicações práticas;
+- maior clareza técnica.
+
+Melhorias percebidas:
+- Resposta mais didática;
+- maior aplicabilidade;
+- melhor entendimento técnico.
+
+Aprendizado:
+Exemplos e contexto tornam o aprendizado mais eficiente.

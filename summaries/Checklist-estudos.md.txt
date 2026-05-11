@@ -1,0 +1,37 @@
+# Checklist de Estudos — Power BI
+
+---
+
+## Fundamentos
+
+- [ ] O que é Power BI
+- [ ] Interface do Power BI
+- [ ] Importação de dados
+- [ ] Transformação de dados
+
+---
+
+## Dashboards
+
+- [ ] Criação de gráficos
+- [ ] Indicadores visuais
+- [ ] KPIs
+- [ ] Gestão visual
+
+---
+
+## DAX
+
+- [ ] Conceitos básicos
+- [ ] Medidas
+- [ ] Funções
+- [ ] Aplicações práticas
+
+---
+
+## Organização dos Estudos
+
+- [ ] Revisões semanais
+- [ ] Atualização dos resumos
+- [ ] Novos prompts
+- [ ] Documentação contínua

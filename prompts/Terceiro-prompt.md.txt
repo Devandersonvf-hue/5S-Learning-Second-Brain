@@ -1,0 +1,36 @@
+## Prompt 03
+
+Prompt utilizado:
+"O que é DAX?"
+
+Resposta:
+DAX (Data Analysis Expressions) é uma linguagem de fórmulas e expressões criada especificamente para a manipulação de modelos de dados.
+Ela funciona como o "cérebro" por trás dos cálculos no Power BI, sendo também utilizada no Microsoft Analysis Services e no Power Pivot para Excel.
+
+1. Finalidade e Uso
+O DAX é utilizado para criar medidas, colunas calculadas e tabelas calculadas dentro de um modelo de BI. Ele permite que você vá além de simples somas, criando indicadores de gestão complexos e métricas personalizadas para monitorar metas e orientar decisões estratégicas.
+
+2. Sintaxe e Estrutura
+As fórmulas DAX possuem uma sintaxe predefinida que lembra as fórmulas do Excel, facilitando o aprendizado para quem já domina planilhas. A estrutura geral de uma expressão DAX segue o formato:
+
+Nome_da_Medida = Função().
+Exemplo prático: Valor_servicos = SUM(Base[Valor]), onde SUM é a função de soma aplicada à coluna Valor da tabela Base.
+
+3. Categorias de Funções
+As fontes destacam que existe um vasto universo de funções DAX, agrupadas em categorias como:
+
+Agregação: Para realizar cálculos como soma (SUM), média (AVERAGE), valor mínimo (MIN) e máximo (MAX).
+Lógica: Como a função IF, que verifica condições e retorna valores de verdadeiro ou falso.
+
+Objetivo:
+Entender o conceito básico da linguagem DAX.
+
+Resultado:
+A IA explicou DAX como linguagem de fórmulas.
+
+Problemas encontrados:
+
+- ausência de aplicações visuais, Ex: como a fórmula funciona dentro do programa,  em cada etapa da aplicação para facilitar o entendimento.
+
+Aprendizado:
+Prompts genéricos limitam profundidade técnica.

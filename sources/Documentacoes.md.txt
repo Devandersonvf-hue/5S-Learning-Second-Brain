@@ -1,0 +1,37 @@
+# Documentações Oficiais
+
+## Power BI Documentation
+
+Link:
+https://learn.microsoft.com/pt-br/power-bi/
+
+Tipo:
+Documentação técnica oficial.
+
+Objetivo:
+Consultar funcionalidades,
+conceitos e recursos do Power BI.
+
+Por que essa fonte é importante?
+- Fonte oficial da Microsoft;
+- conteúdo técnico atualizado;
+- utilizado por profissionais.
+
+---
+
+## DAX Guide
+
+Link:
+https://dax.guide/
+
+Tipo:
+Documentação especializada em DAX.
+
+Objetivo:
+Pesquisar funções DAX
+e aprofundar conhecimentos técnicos.
+
+Por que essa fonte é importante?
+- Referência muito utilizada no mercado;
+- exemplos práticos;
+- apoio para fórmulas e medidas.

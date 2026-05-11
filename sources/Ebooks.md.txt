@@ -1,0 +1,44 @@
+# Ebooks e PDFs
+
+---
+
+## Power BI – Nível I
+
+Tipo:
+Apostila técnica em PDF.
+
+Origem:
+ESESP — Governo do Estado do Espírito Santo.
+
+Objetivo:
+Apoiar o aprendizado introdutório de Power BI,
+visualizações, dashboards e linguagem DAX.
+
+Principais tópicos estudados:
+- Gestão do conhecimento e informação;
+- Instalação do Power BI Desktop;
+- Conexão com fontes de dados;
+- Transformação de dados;
+- Criação de medidas;
+- Visualizações;
+- Dashboards;
+- Funções DAX;
+- Gestão visual da informação.
+
+Por que essa fonte é importante?
+- Material estruturado;
+- conteúdo didático;
+- abordagem prática;
+- excelente para iniciantes;
+- apresenta fundamentos importantes de BI.
+
+Aplicação no projeto:
+Utilizado como base para:
+- criação de resumos;
+- engenharia de prompts;
+- construção do glossário;
+- organização do Second Brain;
+- estudos práticos de Power BI.
+
+Arquivo utilizado:
+power-bi-nivel-1.pdf

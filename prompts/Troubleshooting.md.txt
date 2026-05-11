@@ -1,0 +1,58 @@
+# Troubleshooting de Prompts
+
+---
+
+## Problema 01
+
+Problema:
+Respostas superficiais.
+
+Causa:
+Prompts muito genéricos.
+
+Solução:
+Adicionar:
+- contexto;
+- exemplos;
+- estrutura desejada;
+- aplicações reais.
+
+Resultado:
+Respostas mais completas e úteis.
+
+---
+
+## Problema 02
+
+Problema:
+Falta de organização nas respostas.
+
+Causa:
+Ausência de direcionamento visual.
+
+Solução:
+direcionar qual caminho ele deve construir.
+Solicitar:
+- tópicos;
+- listas;
+- estrutura em etapas.
+
+Resultado:
+Maior clareza visual e melhor aprendizado.
+
+---
+
+## Problema 03
+
+Problema:
+Pouca aplicabilidade prática.
+
+Causa:
+Prompts sem exemplos reais.
+
+Solução:
+Solicitar:
+- aplicações práticas.
+
+Resultado:
+Respostas mais didática e melhor entendimento técnico.

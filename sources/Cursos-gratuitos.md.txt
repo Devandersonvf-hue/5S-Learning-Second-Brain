@@ -1,0 +1,38 @@
+# Cursos Gratuitos
+
+## Microsoft Learn — Power BI
+
+Link:
+https://learn.microsoft.com/pt-br/training/powerplatform/power-bi
+
+Tipo:
+Curso oficial da Microsoft.
+
+Objetivo:
+Aprender os fundamentos do Power BI
+utilizando conteúdo estruturado e progressivo.
+
+Por que essa fonte é importante?
+- Conteúdo oficial;
+- excelente para iniciantes;
+- estrutura organizada;
+- aprendizado progressivo.
+
+---
+
+## Mini Curso de Power BI
+
+Link:
+https://aempreendedora.com.br/mini-curso-power-bi/
+
+Tipo:
+Curso introdutório gratuito.
+
+Objetivo:
+Praticar conceitos básicos de Power BI,
+dashboards e visualizações.
+
+Por que essa fonte é importante?
+- Linguagem acessível;
+- abordagem prática;
+- conteúdo complementar ao Microsoft Learn.

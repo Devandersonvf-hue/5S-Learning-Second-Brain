@@ -1,0 +1,27 @@
+# Prompts Iniciais
+
+---
+
+## Prompt 01
+
+Prompt utilizado:
+"Explique Power BI para iniciantes."
+
+Resposta:
+
+O Microsoft Power BI é uma coleção de serviços de software, aplicativos e conectores que trabalham juntos para transformar fontes de dados não relacionadas em informações coerentes, visualmente imersivas e interativas. Ele permite que você se conecte facilmente a diversas fontes, como planilhas de Excel, bancos de dados ou sites, para limpar, modelar e visualizar o que é importante, facilitando a tomada de decisões baseada em dados
+.
+
+Objetivo:
+Obter uma visão geral introdutória sobre Power BI.
+
+Resultado:
+A IA apresentou conceitos básicos
+sobre o funcionamento do Power BI.
+
+Problemas encontrados:
+- pouca profundidade.
+
+Aprendizado:
+Prompts muito amplos geram respostas superficiais.
+

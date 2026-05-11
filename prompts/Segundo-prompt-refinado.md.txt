@@ -1,0 +1,66 @@
+## Prompt Refinado 02
+
+Prompt utilizado:
+"Crie um plano de estudos de Power BI para iniciantes utilizando metodologia 5S, Gestão à Vista e revisões contínuas."
+
+Resposta:
+Este plano de estudos foi estruturado para transformar dados brutos em conhecimento estratégico, integrando o conteúdo técnico das fontes com as metodologias de organização e visualização solicitadas.
+
+Fase 1: Organização e Fundamentos
+Nesta fase, o foco é preparar o ambiente e entender a lógica do "Self-Service BI", que permite usuários de negócios criarem seus próprios relatórios.
+
+Instalação: Baixe e instale o Power BI Desktop (versão gratuita para Windows).
+Conexão de Dados: Aprenda a conectar o Power BI a fontes comuns, como Excel e CSV.
+Conceitos Iniciais: Estude a diferença entre dado (isolado), informação (conjunto ordenado) e conhecimento (ativo estratégico).
+Aplicação 5S: Utilize o senso de utilização para identificar quais fontes de dados são realmente necessárias para o seu projeto inicial, evitando poluir o modelo.
+
+Fase 2: Tratamento e Limpeza
+O foco aqui é o Power Query, onde ocorre o processo de ETL (Extração, Tratamento e Carregamento).
+
+Transformação: Aprenda a alterar tipos de dados (texto, data, decimal), dividir colunas por delimitadores e remover erros.
+Padronização: Renomeie colunas e tabelas evitando acentos e caracteres especiais para garantir consistência e evitar "bugs".
+Aplicação 5S: O senso de limpeza aplica-se diretamente ao tratamento de dados, garantindo que apenas informações limpas e úteis sigam para a fase de visualização.
+
+Fase 3: Modelagem e Inteligência
+A modelagem é o "cérebro" do projeto, onde as tabelas se conectam e os cálculos são criados.
+Relacionamentos: Entenda a cardinalidade "um para muitos" (1:*) e crie vínculos entre tabelas usando chaves primárias e secundárias.
+Linguagem DAX: Comece com funções básicas de agregação como SUM (Soma) e COUNTROWS (Contagem) para criar medidas e indicadores de gestão.
+Sintaxe: Pratique a estrutura: Nome_da_Medida = Função(Tabela[Coluna]).
+Aplicação 5S: O senso de padronização foca em manter uma estrutura lógica e organizada nos relacionamentos e nas fórmulas DAX.
+
+Fase 4: Visualização e Gestão à Vista (Shitsuke)
+Aqui você cria a "história" dos seus dados através de elementos visuais impactantes.
+Dashboards Empresariais: Utilize a regra de ouro de no máximo 5 gráficos por página para manter a clareza.
+
+Principais Visuais:
+Cartões: Para exibir números críticos (ex: Valor Total).
+Gráficos de Barras/Colunas: Para comparar categorias.
+Mapas (SIG): Para análise de localização geográfica.
+Segmentação de Dados: Filtros rápidos para interação dinâmica.
+Gestão à Vista: O dashboard deve permitir que um gestor identifique tendências e padrões no exato momento em que ocorrem, facilitando decisões rápidas e assertivas.
+
+Fase 5: Revisões Contínuas e Certificação
+A aprendizagem deve ser cíclica e prática, executando comandos e prototipando relatórios reais.
+
+Roteiros Microsoft Learn: Siga as trilhas de aprendizagem oficiais para aprofundar em análise de dados e design de relatórios.
+Simulados e Comunidade: Realize avaliações práticas e participe de fóruns para trocar experiências sobre boas práticas.
+Revisão: Periodicamente, retorne aos seus modelos antigos para aplicar novas funções DAX aprendidas ou refinar o layout gráfico conforme novos insights de design.
+Aplicação 5S: O senso de autodisciplina  garante que o analista mantenha o hábito de atualizar seus conhecimentos e manter os modelos de dados otimizados.
+
+Objetivo:
+Integrar Power BI com organização inteligente dos estudos, utilizando as metodologias 5s, Gestão visual e melhoria contínua. 
+
+Resultado:
+A IA criou:
+- etapas de estudo;
+- organização visual;
+- sugestões de revisão;
+- estrutura de aprendizado.
+
+Melhorias percebidas:
+- Melhor contextualização;
+- resposta mais estratégica;
+- maior alinhamento com o projeto.
+
+Aprendizado:
+Adicionar contexto melhora significativamente a IA.

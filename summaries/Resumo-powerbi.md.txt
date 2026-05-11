@@ -1,0 +1,58 @@
+# Resumo Estruturado — Power BI
+
+---
+
+## O que é Power BI
+
+Power BI é uma plataforma de Business Intelligence
+desenvolvida pela Microsoft para análise,
+visualização e compartilhamento de dados.
+
+---
+
+## Principais Recursos
+
+- Dashboards interativos;
+- Visualizações de dados;
+- Integração com múltiplas fontes;
+- Criação de relatórios;
+- Análise em tempo real.
+
+---
+
+## O que é DAX
+
+DAX (Data Analysis Expressions)
+é a linguagem utilizada no Power BI
+para criação de medidas e cálculos personalizados.
+
+---
+
+## Aplicações Empresariais
+
+Power BI pode ser utilizado para:
+- análise financeira;
+- indicadores de produção;
+- dashboards gerenciais;
+- monitoramento de vendas;
+- gestão de indicadores.
+
+---
+
+## Boas Práticas
+
+- Organizar bases de dados;
+- padronizar dashboards;
+- utilizar visualizações simples;
+- revisar medidas DAX;
+- documentar análises.
+
+---
+
+## Dicas de Aprendizagem
+
+- Praticar dashboards reais;
+- estudar DAX continuamente;
+- utilizar documentação oficial;
+- revisar conceitos frequentemente;
+- aplicar metodologia 5S nos estudos.

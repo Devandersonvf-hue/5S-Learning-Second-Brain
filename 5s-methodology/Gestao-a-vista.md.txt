@@ -1,0 +1,44 @@
+# Gestão à Vista
+
+Gestão à Vista é uma metodologia visual
+utilizada para facilitar:
+- organização;
+- acompanhamento;
+- monitoramento;
+- clareza das informações.
+
+O objetivo é tornar o aprendizado
+mais visual,
+acessível
+e fácil de acompanhar.
+
+---
+
+## Aplicação no Projeto
+
+O projeto utiliza Gestão à Vista através de:
+- checklists;
+- organização visual de pastas;
+- documentação estruturada;
+- acompanhamento de estudos;
+- indicadores de progresso.
+
+---
+
+## Benefícios da Gestão à Vista
+
+- Melhor organização do aprendizado;
+- maior clareza visual;
+- acompanhamento da evolução;
+- facilidade para revisões;
+- aumento da produtividade nos estudos.
+
+---
+
+## Relação com o Second Brain
+
+A Gestão à Vista ajuda a transformar
+o NotebookLM em um sistema visual
+de organização do conhecimento,
+permitindo aprendizado mais eficiente
+e estruturado.

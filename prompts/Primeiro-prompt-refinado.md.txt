@@ -1,0 +1,42 @@
+## Prompt Refinado 01
+
+Prompt utilizado:
+"Explique os principais conceitos de Power BI para iniciantes utilizando exemplos práticos, dashboards empresariais e aplicações reais. Organize a resposta em tópicos."
+
+Resposta:
+O Microsoft Power BI é uma plataforma de análise de negócios que transforma dados brutos de diversas fontes em informações visuais e interativas para facilitar a tomada de decisão. Um conceito central para iniciantes é o "Self-Service Business Intelligence", que permite a usuários de negócios criar seus próprios relatórios sem depender de conhecimentos avançados em programação ou TI.
+
+1. Obtenção e Conexão de Dados
+O primeiro passo em qualquer projeto é conectar o Power BI às suas fontes de dados. A ferramenta é versátil e pode se conectar a planilhas de Excel, bancos de dados (como SQL e Oracle), arquivos CSV e até links da web.
+
+Aplicação Real: Uma empresa de consultoria pode importar sua base de registros de serviços prestados diretamente de um arquivo Excel para iniciar a análise de desempenho.
+
+2. Transformação de Dados (ETL)
+Antes de criar gráficos, os dados precisam ser limpos e organizados (processo de Extração, Tratamento e Carregamento). Isso é feito no Editor do Power Query.
+
+Exemplo Prático: Se uma coluna de "Código de Serviço" for importada como número, você pode transformá-la em formato de Texto para garantir que a ferramenta a trate como um identificador e não como um valor somável. Também é possível dividir colunas, como extrair apenas a cidade de um endereço completo
+
+3. Modelagem e Relacionamentos
+A modelagem consiste em criar vínculos entre diferentes tabelas para que a ferramenta entenda como os dados se conectam.
+
+Conceito de Cardinalidade: O relacionamento mais comum é o de "um para muitos".
+
+Exemplo Prático: Relacionar uma tabela de "Vendas" com uma tabela auxiliar de "Localização". A tabela de localização possui registros únicos de municípios (chave primária), que se vinculam aos diversos registros de vendas ocorridos em cada cidade na tabela principal.
+
+Objetivo:
+Obter uma resposta mais prática e estruturada.
+
+Resultado:
+A IA apresentou:
+- conceitos organizados;
+- exemplos práticos;
+- aplicações reais;
+
+
+Melhorias percebidas:
+- Maior clareza;
+- mais profundidade;
+- melhor organização.
+
+Aprendizado:
+Prompts detalhados geram respostas mais úteis.

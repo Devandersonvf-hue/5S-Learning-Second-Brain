@@ -1,0 +1,32 @@
+# Glossário — Power BI
+
+---
+
+## Dashboard
+
+Painel visual utilizado para acompanhar indicadores.
+
+---
+
+## DAX
+
+Linguagem de fórmulas do Power BI.
+
+---
+
+## Dataset
+
+Conjunto de dados utilizado para análises.
+
+---
+
+## Visualização
+
+Representação gráfica das informações.
+
+---
+
+## Medidas
+
+Cálculos personalizados criados em DAX.
+

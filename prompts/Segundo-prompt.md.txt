@@ -1,0 +1,36 @@
+## Prompt 02
+
+Prompt utilizado:
+"Como aprender Power BI?"
+
+Resposta:
+
+1. Comece pelo Básico e Instalação
+A aprendizagem deve ser prática, executando comandos e prototipando relatórios.
+O primeiro passo é baixar e instalar o Power BI Desktop, que é a ferramenta gratuita para criar modelos e relatórios.
+Você pode encontrar o instalador no site oficial da Microsoft.
+
+2. Siga os Roteiros de Aprendizagem (Microsoft Learn)
+A Microsoft oferece trilhas gratuitas que cobrem as habilidades fundamentais:
+
+Introdução: Aprender a obter, limpar e transformar dados usando o Power Query.
+Modelagem de Dados: Entender como configurar modelos semânticos, criar relacionamentos entre tabelas e implementar cálculos.
+Visualização: Explorar como criar visuais e relatórios interativos que tragam insights para o negócio
+
+3. Utilize Recursos de Referência e Comunidade
+
+Guia de Funções DAX: Utilize guias de referência para consultar a sintaxe de fórmulas quando precisar criar cálculos específicos.
+Documentação Oficial: A documentação da Microsoft fornece diretrizes personalizadas por função (se você é desenvolvedor, administrador ou usuário corporativo).
+Comunidade: Conectar-se com outros profissionais em fóruns e grupos de usuários ajuda a resolver problemas práticos e compartilhar melhores práticas
+
+Objetivo:
+Entender possíveis caminhos de estudo.
+
+Resultado:
+A IA sugeriu uma trilha de como estruturar um caminho para a aprendizagem.
+
+Problemas encontrados:
+- Resposta ampla demais;
+
+Aprendizado:
+Faltou especificar contexto.
